@@ -2,5 +2,7 @@
 
 ## Figma to code
 
--HTML
--CSS
+- HTML<br>
+- CSS (SASS)
+- node-sass, nodemon, uglify-css NPM packages
+- Fonts converted to woff/woff2
